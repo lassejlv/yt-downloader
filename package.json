@@ -1,0 +1,19 @@
+{
+  "name": "downloader-yt",
+  "version": "1.0.1",
+  "description": "Command Line to download videos from youtube.",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "inquirer": "^9.1.1",
+    "ytdl": "^1.4.1"
+  }
+}
