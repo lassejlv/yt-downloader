@@ -1,4 +1,4 @@
-# download-yt
+# downloader-yt
 
 Command Line to download videos from youtube.
 
